@@ -99,6 +99,9 @@ gradlew build
 
 <h2>Change Notes</h2>
 
+**3.19**
+* Add support for IntelliJ IDEA version **2023.3 - 2024.1** (build 233-241.*)
+
 **3.18**
 * Support build range `252.*`
 

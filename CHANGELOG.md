@@ -1,6 +1,13 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
 # IntelliJ Platform Plugin Template Changelog
+## [3.19]
+### Changed
+- Update `platformVersion` to `2023.3`
+- Change since/until build to `233-241.*` (2023.3 - 2024.1)
+- Upgrade Gradle Wrapper to `8.11.1`
+- Dependencies - upgrade `org.jetbrains.intellij` to `1.17.4`
+
 ## [3.18]
 ### Changed
 - Support build range `252.*`
